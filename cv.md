@@ -43,7 +43,7 @@ button.onclick = function() {
 6. No experience in IT, except for participation in various tournaments and work on-demand graphic design
 ---
 
-7. Education:
+7. education:
    + unfinished higher education in radio engineering
    + courses at the HTML academy
    + сompleted degrees in robotics and industrial robotics
