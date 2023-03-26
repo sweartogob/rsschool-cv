@@ -25,6 +25,17 @@ I was trained at the school of additional education in Russia - "Kvantorium", in
     + Fusion 360
 ---
 
-5. ```
+5. 
+```
+'use strict'
+let button = document.querySelector('.btnToSite');
 
+button.onclick = function() {
+    if(+prompt('Сколько Вам лет?', '') >= 18) {
+        alert('Отлично, ожидайте загрузки');
+    } 
+    else {
+        alert('К сожалению, Вам доступ запрещён')
+    }
+}
 ```
