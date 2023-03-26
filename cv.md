@@ -17,7 +17,8 @@ I was trained at the school of additional education in Russia - "Kvantorium", in
     + Git
     + Photoshop
     + Fusion 360
-5.
+
+5. 
 ```
 'use strict'
 let button = document.querySelector('.btnToSite');
